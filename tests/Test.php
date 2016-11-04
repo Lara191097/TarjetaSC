@@ -24,10 +24,7 @@ class TarjetaTest extends TestCase {
   }
 
   public function testPagarViajeSinSaldo() {
-	  $bondi= new Colectivos("122");
-	  $tar = new Tarjetas ("estudiante", "Medio boleto");
-	  $tar->pagar($bondi,"0.00","4/11/2016");
-	  $tar->assertEquals($tar->saldo(),"Pierde 1 plus");
+	
 
   }
 
