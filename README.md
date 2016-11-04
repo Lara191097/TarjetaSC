@@ -4,7 +4,4 @@ Para correr los tests:
 
 [![Coverage Status](https://coveralls.io/repos/github/Lara191097/Tarjeta/badge.svg?branch=master)](https://coveralls.io/github/Lara191097/Tarjeta?branch=master)
 
-
- 
-
 vendor/bin/phpunit test/*
