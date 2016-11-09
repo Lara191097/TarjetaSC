@@ -1,5 +1,4 @@
 
-
 <?php
 namespace Poli\Tarjeta;
 use PHPUnit\Framework\TestCase;
@@ -83,5 +82,3 @@ class TarjetaTest extends TestCase {
 	$this->assertEquals($tarje->saldo(), 6,"Se cobran 16 del plus ");
   }
 }
-
-   
