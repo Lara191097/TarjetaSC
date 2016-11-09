@@ -1,6 +1,6 @@
-<?php
+<?
 
-namespace Poli\Tarjeta;
+/*namespace Poli\Tarjeta;
 
 class Viajes{
 	protected $nombreultimotransporteusado;
