@@ -26,7 +26,7 @@ class Tarjetas implements Tarjeta{
 						$this->monto=-8;
 			}
 			if($this->saldo>0){
-				if($this->boleto->darnombre()!=$transporte->darnombre() && $this->tipo!='pase libre'){
+				if($this->boleto->darnombre()!=$transporte->darnombre() && $this->tipo!='medio'){
 				#casos posibles del trasbordo
 					if($this->tipo=='estudiante' && $this->boleto->darmonto() != 1.32){
 						#ya sea terciario, secundario o primario, se puede usar sólo entre semana
