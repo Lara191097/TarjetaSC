@@ -1,9 +1,5 @@
 <?php
-
-
-
 namespace Poli\Tarjeta;
-
 class Bicicletas{
 	protected $costo;
 	protected $nombre;
