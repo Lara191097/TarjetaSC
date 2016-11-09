@@ -1,6 +1,6 @@
 <?php
 
-//Hola esto es un comentario
+
 
 namespace Poli\Tarjeta;
 
