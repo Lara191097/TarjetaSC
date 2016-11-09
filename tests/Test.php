@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Poli\Tarjeta;
+/*namespace Poli\Tarjeta;
 
 use PHPUnit\Framework\TestCase;
 
